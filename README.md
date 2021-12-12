@@ -67,7 +67,8 @@ there.
 ### Components needed
 
 - ESP-32  --> v1.0.6 (https://github.com/espressif/arduino-esp32)
-- NimBLE-Arduino --> v1.2.0 (https://github.com/h2zero/NimBLE-Arduino)
+- NimBLE-Arduino --> v1.2.0 (https://github.com/h2zero/NimBLE-Arduino) - Installed via Ardiuno UI: *Sketch->Include Library->Manage Libraries*
+- PubSubClient --> v2.8.0 (https://github.com/knolleary/pubsubclient) - Installed via Ardiuno UI: *Sketch->Include Library->Manage Libraries*
 
 ### OnDemand Mode
 
